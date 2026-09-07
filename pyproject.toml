@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mdrama-saga"
+dynamic = [
+    "version",
+    "dependencies",
+    "optional-dependencies",
+    "requires-python",
+    "authors",
+    "description",
+    "readme",
+    "license"
+]
