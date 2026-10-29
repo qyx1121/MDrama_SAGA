@@ -3,6 +3,7 @@
 Code for **"Beyond Sparse Rewards: A New Benchmark and Structure-Aware Graph Alignment for Micro-Drama Understanding"** (EMNLP 2026).
 
 - M-Drama Data: [yixin1121/M-Drama](https://huggingface.co/datasets/yixin1121/M-Drama)
+- Raw Frames: [yixin1121/M-Drama_Raw](https://huggingface.co/datasets/yixin1121/M-Drama_Raw)
 - SAGA Weights: [yixin1121/SAGA_Qwen3-8B](https://huggingface.co/yixin1121/SAGA_Qwen3-8B)
 
 ## Results
