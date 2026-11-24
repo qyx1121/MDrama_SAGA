@@ -88,6 +88,8 @@ python scripts/model_merger.py --local_dir <ckpt_dir>
 python sft/data/download_videos.py --split test --output_dir data/videos
 python eval/prepare_eval_data.py --video_dir data/videos
 ```
+## Contact
+If you have any questions regarding the benchmark, please feel free to open an issue or reach out via [qyxzn715@gmail.com](mailto:qyxzn715@gmail.com)
 
 ## License
 
